@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**aali21/aali21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🌱 Data Scientist/Engineer
+- 🤔 MSc Data Science from UoM
+- 🔭 I’m currently working on: dissertation project on transformer models & sentiment analysis
+- 💬 Ask me about: stocks and investing
+
+
+## My Skills
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Selenium, Transformers)
+- SQL
+- NoSQL
+- MongoDB
+- MySQL
+- AWS
+- Linux
+- Data Visualization
+- Advanced Excel
+- APIs
+
+## Data projects
+https://github.com/aali21/Data-Projects-Portfolio/tree/main
